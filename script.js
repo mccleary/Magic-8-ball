@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  var magic8ball = {};
-  magic8ball.listofanswers = [
+  var magic8Ball = {};
+  magic8Ball.listOfAnswers = [
     "It is certain",
     "It is decidedly so",
     "Without a doubt",

@@ -23,5 +23,14 @@ $(document).ready(function() {
     "Very doubtful"
   ];
 
+  magic8Ball.askQuestion = function(question) {
+  	var randomNumber = Math.random();
+  	var randomAnswer = randomNumber * this.listOfAnswers.length;
+  	var randomIndex = Math.floor(randomAnswer);
+  	var answer = this.listOfAnswers[randomIndex];
+
+  	console.log(question);
+  	console.log(answer);
+  };
 
 });

@@ -1,4 +1,6 @@
 $(document).ready(function() {
+
+  var question = prompt("Ask me a YES/NO question");
   var magic8Ball = {};
   magic8Ball.listOfAnswers = [
     "It is certain",

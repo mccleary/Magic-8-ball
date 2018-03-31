@@ -1,6 +1,6 @@
 # Magic 8-Ball
 
-Single page, website that delivers a different Magic 8-Ball message each time the user "shakes" the magic 8-ball. 
+Single page, website that delivers a different Magic 8-Ball message each time the user "shakes" the magic 8-ball.
 (HTML/CSS/JavaScript)
 
 
@@ -8,5 +8,5 @@ Single page, website that delivers a different Magic 8-Ball message each time th
 
 
 
-<!-- ### LOLCat Screenshot
+<!-- ### Magic 8-Ball Screenshot
 ![Magic 8-Ball Image](img/magic_8_ball.png) -->
